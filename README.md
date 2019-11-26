@@ -7,6 +7,8 @@ Lista de eventos com alguma relação a sistemas embarcados
 - Linux Developer Conference Brazil
 - QtCon Brasil
 - Embarcados Experience
+- Microchip Masters Brasil
+- H2HC (Hackers 2 Hackers Conference)
 
 ### Internacional
 - ARM Tech Com
