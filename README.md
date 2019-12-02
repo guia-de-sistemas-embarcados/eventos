@@ -4,27 +4,27 @@ Lista de eventos com alguma relação a sistemas embarcados
 ### Brasileiros
 
 #### Presenciais
-- [BSides São Paulo](www.garoa.net.br/wiki/BSidesSP)
+- [BSides São Paulo](https://www.garoa.net.br/wiki/BSidesSP)
 - [Embarcados Experience](https://www.embarcados.com.br/eventos-presenciais/)
 - [Encontro de Programadores C & C++ do Brasil](http://ccppbrasil.github.io/encontros/proximo/)
-- [H2HC – Hackers to Hackers Conference](www.h2hc.com.br)
+- [H2HC – Hackers to Hackers Conference](https://www.h2hc.com.br)
 - [Linux Developer Conference Brazil](https://linuxdev-br.net/)
 - [MIcrochip Masters Brasil](https://mastersbrasil.com.br/)
 - [Native Floripa](https://www.nativefloripa.com.br/)
 - [QtCon Brasil](https://br.qtcon.org/)
-- [Roadsec](www.roadsec.com.br)
+- [Roadsec](https://roadsec.com.br/)
 - [TDC (The Developer Conference)](https://thedevconf.com/)
-- [YSTS – You Shot The Sheriff](www.ysts.org)
+- [YSTS – You Shot The Sheriff](https://www.ysts.org/)
 
 #### Online
 - [Webminars embarcados](https://www.embarcados.com.br/webinars/)
 
 ### Internacionais
 - [ARM Tech Com](https://www.armtechcon.com/)
-- [Black Hat](www.blackhat.com/us-15)
-- [CCCamp – Chaos Communication Camp](www.events.ccc.de/camp)
+- [Black Hat](https://www.blackhat.com/)
+- [CCCamp – Chaos Communication Camp](https://events.ccc.de/)
 - [Drive World Conference & Expo](https://driveworldexpo.com/)
-- [DEF CON](www.defcon.org)
+- [DEF CON](https://www.defcon.org/)
 - [FOSDEM](https://fosdem.org/)
 - [Embedded World](https://www.embedded-world.de/en)
 - [Esc Silicon Valley](https://driveworldexpo.com/esc-conference-overview)
