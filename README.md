@@ -5,6 +5,7 @@ Lista de eventos com alguma relação a sistemas embarcados
 
 #### Presenciais
 - [BSides São Paulo](https://www.garoa.net.br/wiki/BSidesSP)
+- [CryptoRave](https://cryptorave.org/)
 - [Embarcados Experience](https://www.embarcados.com.br/eventos-presenciais/)
 - [Encontro de Programadores C & C++ do Brasil](http://ccppbrasil.github.io/encontros/proximo/)
 - [H2HC – Hackers to Hackers Conference](https://www.h2hc.com.br)
@@ -14,6 +15,7 @@ Lista de eventos com alguma relação a sistemas embarcados
 - [QtCon Brasil](https://br.qtcon.org/)
 - [Roadsec](https://roadsec.com.br/)
 - [TDC (The Developer Conference)](https://thedevconf.com/)
+- [Tosconf](https://tosconf.lhc.net.br/)
 - [YSTS – You Shot The Sheriff](https://www.ysts.org/)
 
 #### Online
@@ -33,3 +35,4 @@ Lista de eventos com alguma relação a sistemas embarcados
 - [ShmooCon](https://www.shmoocon.org/)
 - [Simposio Argentino de Sistemas Embebidos](http://www.sase.com.ar/ )
 - [The C++ conference](https://cppcon.org/)
+- [The IoT device security conference](https://iotdevicesecurityconference.com/)
