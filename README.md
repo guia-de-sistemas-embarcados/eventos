@@ -32,6 +32,7 @@ Lista de eventos com alguma relação a sistemas embarcados
 - [Esc Silicon Valley](https://driveworldexpo.com/esc-conference-overview)
 - [Microchip Masters Conference](http://techtrain.microchip.com/masters/Home.aspx)
 - [Mobile World Congress](https://www.mwcbarcelona.com/)
+- [Open Source Firmware Conference](https://osfc.io/)
 - [ShmooCon](https://www.shmoocon.org/)
 - [Simposio Argentino de Sistemas Embebidos](http://www.sase.com.ar/ )
 - [The C++ conference](https://cppcon.org/)
