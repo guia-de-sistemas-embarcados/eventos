@@ -17,6 +17,7 @@ Lista de eventos com alguma relação a sistemas embarcados
 - [TDC (The Developer Conference)](https://thedevconf.com/)
 - [Tosconf](https://tosconf.lhc.net.br/)
 - [YSTS – You Shot The Sheriff](https://www.ysts.org/)
+- [ESC Brasil](https://www.facebook.com/escbrazil/)
 
 #### Online
 - [Webminars embarcados](https://www.embarcados.com.br/webinars/)
